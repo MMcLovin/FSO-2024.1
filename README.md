@@ -71,6 +71,6 @@ Tanenbaum - Coomeçar o cap. 2
 Machado e Maia - Caps. 5 e 8
 
 ### Aula 06 (03/04) - Threads
-Perdi essa aula pq tava com dengue, ent vou só resumir o que eu for lendo dos slides por enquanto
+Tava dengoso
 ### Aula 07 (08/04) - Threads
-Perdi essa aula pq tava com dengue, ent vou só resumir o que eu for lendo dos slides por enquanto
+Tava dengoso
